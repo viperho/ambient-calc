@@ -1,0 +1,18 @@
+# Syntax Coloring Map for Klimaempfindung
+#################################################
+# Datatypes (KEYWORD1)
+Ambient	KEYWORD1
+
+#################################################
+# Methods and Functions (KEYWORD2)
+calcEnthalpie	KEYWORD2
+calcTaupunkt	KEYWORD2
+calcWindchill	KEYWORD2
+calcHeatindex	KEYWORD2
+calcComfortStatus	KEYWORD2
+
+##################################################
+# Constants (LITERAL1)
+c1	LITERAL1
+c2	LITERAL1
+C3	LITERAL1
